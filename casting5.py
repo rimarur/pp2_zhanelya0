@@ -1,0 +1,1 @@
+w = float("4.2") # w will be 4.2

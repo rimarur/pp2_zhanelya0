@@ -1,0 +1,1 @@
+z = float("3")   # z will be 3.0
