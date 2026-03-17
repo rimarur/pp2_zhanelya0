@@ -1,0 +1,1 @@
+This script uses Python's re module to parse unstructured receipt data from raw.txt
